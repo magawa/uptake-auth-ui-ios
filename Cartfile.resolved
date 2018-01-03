@@ -1,6 +1,0 @@
-github "UptakeMobile/uptake-keychain-ios" "v0.2"
-github "UptakeMobile/uptake-networking-ios" "v0.4"
-github "UptakeMobile/uptake-toolbox-ios" "v0.2.1"
-github "UptakeMobile/uptake-ui-ios" "v0.3"
-github "Uptakemobile/uptake-auth-ios" "v0.5"
-github "jemmons/Medea" "v0.5.1"
