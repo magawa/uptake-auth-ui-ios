@@ -1,0 +1,4 @@
+github "magawa/uptake-toolbox-ios" "master"
+github "magawa/uptake-keychain-ios" "master"
+github "magawa/uptake-ui-ios" "master"
+github "magawa/uptake-auth-ios" "master"
