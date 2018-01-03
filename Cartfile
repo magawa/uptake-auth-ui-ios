@@ -1,0 +1,4 @@
+github "UptakeMobile/uptake-toolbox-ios" ~> 0.2.1
+github "UptakeMobile/uptake-keychain-ios" ~> 0.2
+github "UptakeMobile/uptake-ui-ios" ~> 0.3
+github "Uptakemobile/uptake-auth-ios" ~> 0.5
